@@ -11,6 +11,10 @@ npm add -D @types/styled-components-react-native
 npm install lottie-react-native
 npm add lottie-reactive-native
 
+npm install axios
+npm add axios
+
+API: https://pokeapi.co
 
 
 ## 📦 Instalação

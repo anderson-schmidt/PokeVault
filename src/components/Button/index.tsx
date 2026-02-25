@@ -1,6 +1,6 @@
 import React from "react";
 
-import * as S from "./style";
+import * as S from "./styles";
 import { TouchableOpacityProps } from "react-native";
 
 type Props = {
