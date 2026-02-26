@@ -4,6 +4,9 @@ Uma Pokédex criada em **React Native** com **Expo**, permitindo explorar e visu
 
 ## 🚀 Tecnologias utilizadas
 
+npm install babel-preset-expo --save-dev
+
+
 npm add styled-components
 
 npm add -D @types/styled-components-react-native
@@ -15,6 +18,17 @@ npm install axios
 npm add axios
 
 API: https://pokeapi.co
+
+npm install react-native-reanimated@latest
+
+npm add @react-navigation/native
+
+expo install react-native-screens 
+
+react-native-safe-area-content
+
+npm add @react-navigation/native-stack
+
 
 
 ## 📦 Instalação
