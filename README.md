@@ -29,6 +29,9 @@ react-native-safe-area-content
 
 npm add @react-navigation/native-stack
 
+npm install react-native-progress --save
+npm add react-native-progress --save
+
 
 
 ## 📦 Instalação
