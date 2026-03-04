@@ -59,6 +59,59 @@ Permite compilar e distribuir o app sem precisar configurar Android Studio ou Xc
 
 ---
 
+## 📂 Estrutura do projeto
+
+PokeVault
+|.expo
+|.vscode
+|assets
+|node modules
+|src
+  |@types
+    |index.d.ts
+  |assets
+  |components 
+    |Button
+      |index.tsx
+      |styles.ts
+    |Card
+      |index.tsx
+      |styles.ts
+    |FadeAnimation
+      |index.tsx
+      |styles.ts
+    |routes
+      |app.routes.tsx
+      |index.tsx
+  |global
+      |styles
+        |styled.d.ts
+        |theme.ts
+  |pages
+      |About
+        |index.tsx
+        |styles.ts
+      |Home
+        |index.tsx
+        |styles.ts
+      |Welcome
+        |index.tsx
+        |pokeball.json
+        |styles.ts
+  |service
+    |api.ts
+|.gitignore
+|app.json
+|App.tsx
+|babel.config.js
+|eas.json
+|index.ts
+|metro.config.js
+|package-lock.json
+|package.json
+|README.md
+|tsconfig.json
+
 ## 📦 Instalação
 
 Clone o repositório:

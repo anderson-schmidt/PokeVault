@@ -3,10 +3,11 @@ import { DefaultTheme } from "styled-components/native";
 import theme from "../../global/styles/theme";
 
 export const Container = styled.View`
-    ${({theme}: {theme: DefaultTheme}) => css`
+  ${({ theme }) => css`
     flex: 1;
     background-color: ${theme.colors.backgroundGrass};
-`}`;
+  `}
+`;
 
 export const Content = styled.View`
     height: 70%;

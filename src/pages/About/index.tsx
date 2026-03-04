@@ -29,15 +29,24 @@ type Ability = {
 };
 
 export type TypeName =
-    | 'water'
-    | 'grass'
-    | 'fire'
-    | 'poison'
-    | 'normal'
-    | 'bug'
-    | 'flying'
-    | 'electric'
-    | 'ground'
+  | 'normal'
+  | 'fire'
+  | 'water'
+  | 'grass'
+  | 'electric'
+  | 'ice'
+  | 'fighting'
+  | 'poison'
+  | 'ground'
+  | 'flying'
+  | 'psychic'
+  | 'bug'
+  | 'rock'
+  | 'ghost'
+  | 'dragon'
+  | 'dark'
+  | 'steel'
+  | 'fairy';
 
 type PokemonType = {
     type: {

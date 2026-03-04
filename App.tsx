@@ -3,7 +3,7 @@ import theme from './src/global/styles/theme';
 import { Home } from './src/pages/Home';
 import 'react-native-reanimated';
 import { Routes } from './src/components/routes';
-//import { Welcome } from './src/pages/Welcome';
+
 
 
 export default function App() {
